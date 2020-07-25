@@ -1,0 +1,2 @@
+D:\GGX\Csrc\snake2\Debug\snake2.exe
+D:\GGX\Csrc\snake2\Debug\snake2.pdb

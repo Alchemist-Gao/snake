@@ -1,0 +1,4 @@
+﻿  snake2.cpp
+D:\GGX\Csrc\snake2\snake2.cpp(69,13): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\GGX\Csrc\snake2\snake2.cpp(69,13): message : 此参数用作缓冲区大小
+  snake2.vcxproj -> D:\GGX\Csrc\snake2\x64\Debug\snake2.exe
